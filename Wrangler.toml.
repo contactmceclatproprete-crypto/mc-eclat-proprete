@@ -1,0 +1,8 @@
+name = "mcep-cal-sync-pro"
+main = "src/worker.js"
+compatibility_date = "2026-11-18"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "mcep-bookings-db"
+database_id = "992a7bbc-2bfe-4e7f-ab71-284c3baaebc0"
